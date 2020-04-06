@@ -7,6 +7,12 @@
     <title>MonSiteGithub</title>
 </head>
 <body>
-    <h1 class="col-md-8 mx-auto display-4 text-center alert alert-danger">Git hub</h1>
+    <div class="container">
+
+    <h1 class="col-md-8 mx-auto display-4 text-center alert alert-danger mt-3">Git hub</h1>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, illum facere saepe ad non quia laboriosam perferendis unde expedita, voluptatibus enim. Eaque, laborum tempore? Exercitationem impedit alias sapiente dolorem magni?</p>
+    
+    </div>
 </body>
 </html>
