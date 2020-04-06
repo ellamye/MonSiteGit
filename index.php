@@ -29,7 +29,11 @@
         <button class="btn btn-dark" type="submit">Envoyer</button>
         </form>
 
-        <p class="col-md-4 mx-auto text-center alert alert-info mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid eum ipsa nobis optio temporibus reprehenderit possimus! Delectus hic, fugiat odio architecto, placeat sapiente facere possimus assumenda in rem quas! Modi?</p>    
+        <p class="col-md-4 mx-auto text-center alert alert-info mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid eum ipsa nobis optio temporibus reprehenderit possimus! Delectus hic, fugiat odio architecto, placeat sapiente facere possimus assumenda in rem quas! Modi?</p>
+
+        <hr class="col-md-6 mx-auto bd-dark">
+
+        <p class="col-md-6 mx-auto text-center alert alert-warning mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid eum ipsa nobis optio temporibus reprehenderit possimus! Delectus hic, fugiat odio architecto, placeat sapiente facere possimus assumenda in rem quas! Modi?</p>   
     </div>
 </body>
 </html>
